@@ -1,6 +1,6 @@
-<p>Name: Nguyễn Hải Đăng<p>
-<p>Gmail: Nguyenhaidang4524@gmail.com<p>
-<p>From Quảng Trị with love <3<p>
+<p><b>Name:</b> Nguyễn Hải Đăng</p>
+<p><b>Gmail:</b> Nguyenhaidang4524@gmail.com</p>
+<p>From Quảng Trị with love <span style="color: #f70202"><b><3</b></span></p> 
 
 
 <!---
